@@ -13,13 +13,15 @@ Welcome to the Kisan Vikas frontend repository! This repository contains the cod
 </p>
 
 ## Documentation
-[Abstract](https://github.com/AdityaAg-a/KisanVikasApplication/blob/IT A_10_Abstract.pdf) <br>
-[Report](https://github.com/AdityaAg-a/KisanVikasApplication/IT A_10-ProjectReport.pdf) <br>
-[Report Latex file](https://github.com/AdityaAg-a/KisanVikasApplication/IT A_10-ProjectReport.zip) <br>
-[Software Requirenment Specification](https://github.com/AdityaAg-a/KisanVikasApplication/IT A_10_SRS.pdf) <br>
-[Form-1](https://github.com/AdityaAg-a/KisanVikasApplication/IT A_10_Form1.pdf)<br>
-[Form-2](https://github.com/AdityaAg-a/KisanVikasApplication/IT A_10_Form2.pdf)<br>
-[Form-3](https://github.com/AdityaAg-a/KisanVikasApplication/IT A_10_Form3.pdf)<br>
+[Abstract](https://github.com/AdityaAg-a/KisanVikasApplication/blob/IT_A_10_Abstract.pdf) <br>
+[Report](https://github.com/AdityaAg-a/KisanVikasApplication/IT_A_10-ProjectReport.pdf) <br>
+[Report Latex file](https://github.com/AdityaAg-a/KisanVikasApplication/IT_A_10-ProjectReport.zip) <br>
+[Software Requirenment Specification](https://github.com/AdityaAg-a/KisanVikasApplication/IT_A_10_SRS.pdf) <br>
+[Form-1](https://github.com/AdityaAg-a/KisanVikasApplication/IT_A_10_Form1.pdf)<br>
+[Form-2](https://github.com/AdityaAg-a/KisanVikasApplication/IT_A_10_Form2.pdf)<br>
+[Form-3](https://github.com/AdityaAg-a/KisanVikasApplication/IT_A_10_Form3.pdf)<br>
+
+
 
 ## Features
 
@@ -65,7 +67,6 @@ The project structure is organized as follows:
 - React Native
 - Redux for state management
 - React Navigation for routing
-- Axios for handling HTTP requests
 - Firebase for user authentication
 - TensorFlow.js for disease detection
 - Internationalization (i18n) for multi-language support
