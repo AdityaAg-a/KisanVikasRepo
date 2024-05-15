@@ -12,6 +12,14 @@ Welcome to the Kisan Vikas frontend repository! This repository contains the cod
   <img src="assets/s7.jpg" width="189" />
 </p>
 
+## Documentation
+[Abstract](https://github.com/AdityaAg-a/KisanVikasApplication/blob/IT A_10_Abstract.pdf) <br>
+[Report](https://github.com/AdityaAg-a/KisanVikasApplication/IT A_10-ProjectReport.pdf) <br>
+[Report Latex file](https://github.com/AdityaAg-a/KisanVikasApplication/IT A_10-ProjectReport.zip) <br>
+[Software Requirenment Specification](https://github.com/AdityaAg-a/KisanVikasApplication/IT A_10_SRS.pdf) <br>
+[Form-1](https://github.com/AdityaAg-a/KisanVikasApplication/IT A_10_Form1.pdf)<br>
+[Form-2](https://github.com/AdityaAg-a/KisanVikasApplication/IT A_10_Form2.pdf)<br>
+[Form-3](https://github.com/AdityaAg-a/KisanVikasApplication/IT A_10_Form3.pdf)<br>
 
 ## Features
 
