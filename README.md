@@ -13,13 +13,13 @@ Welcome to the Kisan Vikas frontend repository! This repository contains the cod
 </p>
 
 ## Documentation
-[Abstract](https://github.com/AdityaAg-a/KisanVikasApplication/blob/main/IT_A_10_Abstract.pdf) <br>
-[Report](https://github.com/AdityaAg-a/KisanVikasApplication/blob/main/IT_A_10-ProjectReport.pdf) <br>
-[Report Latex file](https://github.com/AdityaAg-a/KisanVikasApplication/blob/main/IT_A_10-ProjectReport.zip) <br>
-[Software Requirenment Specification](https://github.com/AdityaAg-a/KisanVikasApplication/blob/main/IT_A_10_SRS.pdf) <br>
-[Form-1](https://github.com/AdityaAg-a/KisanVikasApplication/blob/main/IT_A_10_Form1.pdf)<br>
-[Form-2](https://github.com/AdityaAg-a/KisanVikasApplication/blob/main/IT_A_10_Form2.pdf)<br>
-[Form-3](https://github.com/AdityaAg-a/KisanVikasApplication/blob/main/IT_A_10_Form3.pdf)<br>
+[Abstract](https://github.com/AdityaAg-a/KisanVikasApplication/blob/main/Documents/IT_A_10_Abstract.pdf) <br>
+[Report](https://github.com/AdityaAg-a/KisanVikasApplication/blob/main/Documents/IT_A_10-ProjectReport.pdf) <br>
+[Report Latex file](https://github.com/AdityaAg-a/KisanVikasApplication/blob/main/Documents/IT_A_10-ProjectReport.zip) <br>
+[Software Requirenment Specification](https://github.com/AdityaAg-a/KisanVikasApplication/blob/main/Documents/IT_A_10_SRS.pdf) <br>
+[Form-1](https://github.com/AdityaAg-a/KisanVikasApplication/blob/main/Documents/IT_A_10_Form1.pdf)<br>
+[Form-2](https://github.com/AdityaAg-a/KisanVikasApplication/blob/main/Documents/IT_A_10_Form2.pdf)<br>
+[Form-3](https://github.com/AdityaAg-a/KisanVikasApplication/blob/main/Documents/IT_A_10_Form3.pdf)<br>
 
 
 
